@@ -34,6 +34,16 @@
 
 👯 Looking to collaborate with others and for a job 🤣
 
+👾 Never stop playing
+
+🙏 Please be patient, I've just get started
+
+🎧 Don't stop me now
+
+👊 Be my guest!
+
+👨‍⚕️ Future Dr. Lucas (Dentist)
+
 
 <br/>
 
