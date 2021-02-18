@@ -30,10 +30,6 @@
 
 👶🏻 From Uberlândia - MG (Brazil)
 
-👨‍⚕️ Future Dr. Lucas (Dentist)
-
-👨‍💻 And a Software Engineer
-
 👯 Looking to collaborate with others and for a job 🤣
 
 🌱 Never stop learning
