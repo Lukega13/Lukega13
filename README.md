@@ -1,6 +1,6 @@
 ## 👋 Hello there, I’m [Lucas][Instagram]
 
-- 🌱 Never stop learning
+🌱 Never stop learning
 
 <div>
   <a href="https://www.instagram.com/lucasgui13/?hl=pt-br">
