@@ -29,20 +29,22 @@
 ### 👋 I'm an 20 years old student thirsty for knowledge
 
 👶🏻 From Uberlândia - MG (Brazil)
-  
-🌱 Never stop learning
+
+👨‍⚕️ Future Dr. Lucas (Dentist)
+
+👨‍💻 And a Software Engineer
 
 👯 Looking to collaborate with others and for a job 🤣
 
-👾 Never stop playing
+🌱 Never stop learning
 
 🙏 Please be patient, I've just get started
+
+👾 Never stop playing
 
 🎧 Don't stop me now
 
 👊 Be my guest!
-
-👨‍⚕️ Future Dr. Lucas (Dentist)
 
 
 <br/>
