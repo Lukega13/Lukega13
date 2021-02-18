@@ -1,4 +1,4 @@
-## 👋 Hello there, I’m [Lucas][Instagram]
+## Hello there, I’m [Lucas][Instagram]
 
 <div>
   <a href="https://www.instagram.com/lucasgui13/?hl=pt-br">
@@ -26,7 +26,7 @@
 <br/>
 <br/>
 
-### I'm an 20 years old student thirsty for knowledge
+### 👋 I'm an 20 years old student thirsty for knowledge
 
 👶🏻 From Uberlândia - MG (Brazil)
   
