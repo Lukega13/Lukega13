@@ -27,8 +27,9 @@
 <br/>
 <br/>
 
-### 🎧 Listening...
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Lukega13 Spotify Playing" width="350" />](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d)
+🌱 Never stop learning
+
+👯 Looking to collaborate with other content creators and a job 🤣
 
 ## Github Stats
 
