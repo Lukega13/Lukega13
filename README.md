@@ -26,9 +26,13 @@
 
 <br/>
 
-###### 🌱 Never stop learning
+<div>
+  
+🌱 Never stop learning
 
 👯 Looking to collaborate with other content creators and a job 🤣
+
+</div>
 
 <br/>
 
