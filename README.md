@@ -1,6 +1,9 @@
 ## 👋 Hello there, I’m [Lucas][Instagram]
 
 <div>
+  <a href="https://www.instagram.com/lucasgui13/?hl=pt-br">
+    <img alt="Instagram" src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
   <a href="https://twitter.com/LukeGuimaraes">
    <img alt="Twitter" src="https://img.shields.io/badge/@LukeGuimaraes%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
@@ -35,7 +38,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<img src="./Star_wars_banner.png" alt="May the Force be with you" />
+May the Force be with you
 
 [Github]: https://github.com/Lukega13
 [LinkedIn]: https://www.linkedin.com/in/luke-guimaraes/
