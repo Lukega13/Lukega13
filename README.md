@@ -1,7 +1,5 @@
 ## 👋 Hello there, I’m [Lucas][Instagram]
 
-🌱 Never stop learning
-
 <div>
   <a href="https://www.instagram.com/lucasgui13/?hl=pt-br">
     <img alt="Instagram" src="https://img.shields.io/badge/lucasgui13%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
@@ -27,12 +25,9 @@
 </div>
 
 <br/>
-<br/>
 
 ### 🎧 Listening...
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Lukega13 Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
-<br/>
 
 ## Github Stats
 
@@ -41,8 +36,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukega13" />
 </div>
 
-
-May the Force be with you
+<h1 align="center">May the Force be with you</h1>
 
 [Github]: https://github.com/Lukega13
 [LinkedIn]: https://www.linkedin.com/in/luke-guimaraes/
