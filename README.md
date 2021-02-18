@@ -25,6 +25,7 @@
 </div>
 
 <br/>
+<br/>
 
 ### 🎧 Listening...
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Lukega13 Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
@@ -36,7 +37,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukega13" />
 </div>
 
-<h1 align="center">May the Force be with you</h1>
+<p align="center">May the Force be with you</p>
 
 [Github]: https://github.com/Lukega13
 [LinkedIn]: https://www.linkedin.com/in/luke-guimaraes/
