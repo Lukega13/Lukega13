@@ -25,11 +25,12 @@
 </div>
 
 <br/>
-<br/>
 
-🌱 Never stop learning
+###### 🌱 Never stop learning
 
 👯 Looking to collaborate with other content creators and a job 🤣
+
+<br/>
 
 ## Github Stats
 
