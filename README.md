@@ -35,7 +35,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-May the Force be with you
+<img src="./Star_wars_banner.png" alt="May the Force be with you" />
 
 [Github]: https://github.com/Lukega13
 [LinkedIn]: https://www.linkedin.com/in/luke-guimaraes/
