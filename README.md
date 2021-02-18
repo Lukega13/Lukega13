@@ -1,7 +1,9 @@
 ## 👋 Hello there, I’m [Lucas][Instagram]
 
+<div>
 <img alt="Twitter" src="https://img.shields.io/badge/@LukeGuimaraes%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</div>
 
 ### Languages and Tools
 
