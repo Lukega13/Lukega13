@@ -4,11 +4,11 @@
   <a href="https://www.instagram.com/lucasgui13/?hl=pt-br">
     <img alt="Instagram" src="https://img.shields.io/badge/lucasgui13%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/LukeGuimaraes">
-   <img alt="Twitter" src="https://img.shields.io/badge/@LukeGuimaraes%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/luke-guimaraes/">
    <img alt="LinkedIn" src="https://img.shields.io/badge/lukeguimaraes%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/LukeGuimaraes">
+   <img alt="Twitter" src="https://img.shields.io/badge/@LukeGuimaraes%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
 </div>
 
@@ -37,7 +37,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukega13" />
 </div>
 
-<p align="center">May the Force be with you</p>
+<br/>
+
+<p align="center"><b>May the Force be with you</b></p>
 
 [Github]: https://github.com/Lukega13
 [LinkedIn]: https://www.linkedin.com/in/luke-guimaraes/
